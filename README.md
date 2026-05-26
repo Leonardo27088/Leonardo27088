@@ -4,7 +4,7 @@
 
 <h3> 💻 About Me </h3>
 
-I'm a versatile developer with a passion for building useful solutions. Whether it's crafting intuitive UIs or architecting robust backend systems, I love the challenge of learning new tools to get the job done.
+I'm a versatile developer with a passion for building useful solutions. Whether it's crafting intuitive UIs or architecting robust backend systems, I love the challenge of learning new tools to get the job done. I value clean architecture, automated environments, and the ability to transform technical requirements into tangible results.
 
 
 <h3> 🛠 Tech Stack</h3>
